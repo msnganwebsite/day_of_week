@@ -13,10 +13,9 @@
         </p>
         <p>
         	<a href="https://zalo.me/chincucarot" target="_blank">Zalo Kim Ngân</a> – 
-            <a href="mailto:msngan.website@gmail.com">msngan.website@gmail.com</a> – 
+            <a href="https://www.facebook.com/msngan.beauty/" target="_blank">Facebook Kim Ngân</a> – 
+            <a href="mailto:msngan.website@gmail.com" target="_blank">Email Dev Support</a> – 
             <a href="https://info.phankimngan.com" target="_blank">My Info</a> – 
-            <a href="https://scodeweb.com/thanh-vien/phankimngan.html" target="_blank">Sàn Scodeweb</a> – 
-            <a href="https://www.vnsales.vn/store/phankimngan/" target="_blank">Sàn Vnsales</a> – 
             <a href="https://github.com/msnganwebsite/" target="_blank">Github.com</a>
         </p>
         <p>Đây là nội dung mẫu demo. Bạn có thể chỉnh sửa các nội dung tại chân trang này để phù hợp với mong muốn.</p>
